@@ -9,3 +9,6 @@ firebase emulators:start --only functions
 ```bash
 firebase deploy --only functions
 ```
+
+## Reference
+- https://cloud.google.com/vertex-ai/generative-ai/docs/agent-engine/develop/langchain#vertex-ai-extension
